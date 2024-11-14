@@ -20,7 +20,7 @@ public class StudentGradeTracker {
         }
 
         if (grades.isEmpty()) {
-            System.out.println("No grades entered. ");
+            System.out.println("No grades entered ! ");
             return;
         }
 
